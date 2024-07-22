@@ -1,6 +1,6 @@
 import {NavigationContainer} from "@react-navigation/native";
-import Home from "../screens/home";
-import Detailed from "../screens/detailed";
+import Home from "../src/screens/home";
+import Detailed from "../src/screens/detailed";
 import {createBottomTabNavigator} from "@react-navigation/bottom-tabs";
 import {Ionicons} from "@expo/vector-icons";
 
@@ -8,7 +8,7 @@ const Tab = createBottomTabNavigator();
 
 export default function TabNavigation() {
     return (
-        // <NavigationContainer>
+        <NavigationContainer>
             <Tab.Navigator
                 screenOptions={({ route}) => ({
                    tabBarIcon: ({ focused, color, size }) => {

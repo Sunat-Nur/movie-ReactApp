@@ -1,7 +1,13 @@
 import React from 'react';
-import AppNavigation from '../navigations/app.navigation';
-import TabNavigation from "../navigations/tab.navigation";
+import {NavigationContainer} from '@react-navigation/native';
+import AppNavigation from '../navigations/AppNavigation';
+import "../src/styles/global.css"
+
 
 export default function App() {
-    return <TabNavigation />
-};
+    return (
+        <NavigationContainer independent={true}>
+            <AppNavigation/>
+        </NavigationContainer>
+    );
+}
