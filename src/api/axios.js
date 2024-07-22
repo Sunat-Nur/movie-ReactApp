@@ -1,3 +1,4 @@
+// axios.js
 import axios from 'axios';
 
 export const apiRequest = async (endpoint, params) => {
@@ -11,7 +12,7 @@ export const apiRequest = async (endpoint, params) => {
         const { data } = await axios.request(options);
         return data;
     } catch (error) {
-        console.log('error', error);
+        console.log('API request error:', error.response ? error.response : error);
         return error;
     }
 };

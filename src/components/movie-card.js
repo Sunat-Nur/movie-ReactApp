@@ -7,7 +7,7 @@ const {width, height} = Dimensions.get('window');
 
 export default function MovieCard({item}) {
     const navigation = useNavigation();
-    console.log(item);
+
     return (
         <TouchableWithoutFeedback
             onPress={() => navigation.navigate('Movie', item.id)}
