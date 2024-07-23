@@ -1,4 +1,3 @@
-![photo_2024-07-23 10 10 02](https://github.com/user-attachments/assets/1612c6b3-8160-4e36-aa28-fa6cf2827995)
 
 <img width="303" alt="Screenshot 2024-07-23 at 10 07 28 AM" src="https://github.com/user-attachments/assets/613dfde7-a32f-4a5e-8575-4f3502f59094">
 
