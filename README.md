@@ -1,3 +1,21 @@
+![photo_2024-07-23 10 10 02](https://github.com/user-attachments/assets/1612c6b3-8160-4e36-aa28-fa6cf2827995)
+
+<img width="303" alt="Screenshot 2024-07-23 at 10 07 28 AM" src="https://github.com/user-attachments/assets/613dfde7-a32f-4a5e-8575-4f3502f59094">
+
+<img width="303" alt="Screenshot 2024-07-23 at 10 07 22 AM" src="https://github.com/user-attachments/assets/2390b672-1a4f-49e9-a3f1-7eaa35868e4e">
+
+<img width="303" alt="Screenshot 2024-07-23 at 10 07 38 AM" src="https://github.com/user-attachments/assets/3126c01b-1d2b-4d3f-a5b1-5e7e6660e299">
+
+<img width="303" alt="Screenshot 2024-07-23 at 10 07 53 AM" src="https://github.com/user-attachments/assets/0b1840c2-0e4c-41ac-b9e8-46eee04f0252">
+
+
+
+
+
+
+
+
+
 ## Movie React Native Application
 
 # Overview
