@@ -6,20 +6,30 @@ This project is a mobile application built with React Native that allows users t
 # Features
 
 **Search Functionality:** Users can search for movies by title using a search bar.
+
 **Movie Details:** Displays detailed information about each movie, including title, release date, genre, rating, and description.
+
 **Cast Information:** Provides details about the cast of each movie.
+
 **Similar Movies:** Suggests movies similar to the one being viewed.
+
 **Responsive UI:** Adaptable user interface for different screen sizes and orientations.
+
 **Favorites:** Users can mark movies as favorites.
 
 
 # Technologies Used
 
 **React Native:** For building cross-platform mobile applications.
+
 **Redux:** State management library to manage the application's state.
+
 **Axios:** For making HTTP requests to fetch movie data from external APIs.
+
 **React Navigation:** To handle navigation between different screens within the app.
+
 **Tailwind CSS:** For styling the application using utility-first CSS framework.
+
 **Expo:** A framework and platform for universal React applications.
 
 # File Descriptions
@@ -44,9 +54,6 @@ Configures Babel for transpiling the application code, including the integration
 
 
 
-# Welcome to your Expo app 👋
-
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
 
