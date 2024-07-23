@@ -1,3 +1,9 @@
+## Movie React Native Application
+
+
+# Overview
+This project is a mobile application built with React Native that allows users to search for and find detailed information about movies. The application integrates various APIs to provide users with comprehensive movie details, including cast information, similar movies, and more. The app is designed to offer a seamless and engaging user experience with features like search, detailed movie pages, and cast information.
+
 
 <img width="303" alt="Screenshot 2024-07-23 at 10 07 28 AM" src="https://github.com/user-attachments/assets/613dfde7-a32f-4a5e-8575-4f3502f59094">
 
@@ -20,10 +26,8 @@
 
 
 
-## Movie React Native Application
 
-# Overview
-This project is a mobile application built with React Native that allows users to search for and find detailed information about movies. The application integrates various APIs to provide users with comprehensive movie details, including cast information, similar movies, and more. The app is designed to offer a seamless and engaging user experience with features like search, detailed movie pages, and cast information.
+
 
 # Features
 
